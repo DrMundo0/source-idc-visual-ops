@@ -1,3 +1,5 @@
+* upstream: https://github.com/99kevindk/idc-visual-ops
+
 <div align="center">
 
 <img src="docs/images/header.png" alt="IDC 可视化运维项目 · IDC Visual Ops" width="100%" />
